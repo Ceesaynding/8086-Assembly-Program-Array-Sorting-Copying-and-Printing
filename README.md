@@ -1,1 +1,2 @@
 # 8086-Assembly-Program-Array-Sorting-Copying-and-Printing
+This repository contains an 8086 assembly program designed to sort, copy, and print a character array using procedures and program flow control. The program utilizes Bubble Sort algorithm for sorting, and employs MOVSB and REP instructions for copying without using LOOP instruction. The sorted array is then printed onto the screen using INT 10h / AH = 0Eh.
